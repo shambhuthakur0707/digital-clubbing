@@ -1,0 +1,6 @@
+{
+  "name": "Xamine Triage Agent",
+  "description": "Autonomous medical screening assistant evaluating digital clubbing through finger imaging and Lovibond angle triage with specialist routing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
